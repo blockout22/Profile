@@ -4,7 +4,7 @@ I'm an independent self taught developer from Durham, I started programming from
 
 # Show cases
 
-A commecial project I have worked on released on Steam
+A commecial project I have worked on that is released on Steam
 
 <br>
 <a href="https://store.steampowered.com/app/1811410/World_Up/">
