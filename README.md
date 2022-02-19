@@ -5,18 +5,23 @@ I'm an independent self taught developer from Durham, I started programming from
 # Show cases
 
 A visual scripting project that allows users to generate code using a Node Graph based system with the addition of Plugin support
+
 <br>
 <a href="https://github.com/blockout22/VisualScripting">
 <img src="https://raw.githubusercontent.com/blockout22/VisualScripting/12c3c7205917f5ad37c2ffd0ec4211626304e073/Images/example5.png" width="250">
 </a>
 ---
+
 OpenGL Render engine written in Java
+
 <br>
 <a href="https://github.com/blockout22/DotJ">
 <img src="https://raw.githubusercontent.com/blockout22/DotJ/6b5e309c71fa7df396c051cfdbf4685b3aadc831/Images/testScene-19.12.2021.png" width="250">
 <a/>
   ---
+  
 Addons/Mods for Other Games
+  
   <br>
   <a href="https://github.com/blockout22/MiniMap"><img src="https://cdn.discordapp.com/attachments/701161301732229121/720300109358694400/unknown.png" width="150"></a>
   <a href="https://github.com/blockout22/ItemSpawner"><img src="https://cdn.discordapp.com/attachments/701161301732229121/832357385107537940/unknown.png" width="170"></a>
