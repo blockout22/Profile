@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblockout22.github.io%2FProfile%2F&count_bg=%234EDD6B&title_bg=%236B7EE7&icon=googleclassroom.svg&icon_color=%23313131&title=Total+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## Hey, I'm Kieran
 
 I'm an independent self taught developer from Durham, I started programming from 2009.
